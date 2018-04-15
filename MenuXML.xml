@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+<Menu>
+<Name>调试</Name>
+<MenuLeaf>
+<Name>窗口</Name>
+<MenuNode Name="断点"/>
+<MenuNode Name="异常设置"/>
+<MenuNode Name="输出"/>
+</MenuLeaf>
+<MenuLeaf>
+<Name>探查器</Name>
+<MenuNode Name="性能探查器"/>
+<MenuLeaf>
+<Name>性能资源管理器</Name>
+<MenuNode Name="显示性能管理器"/>
+<MenuNode Name="比较性能报告"/>
+<MenuNode Name="新建性能会话"/>
+</MenuLeaf>
+</MenuLeaf>
+</Menu>
+<Menu>
+<Name>文件</Name>
+<MenuLeaf>
+<Name>新建</Name>
+<MenuNode Name="项目"/>
+<MenuNode Name="文件"/>
+<MenuNode Name="从现有代码创建文件"/>
+</MenuLeaf>
+</Menu>
+</Root>
